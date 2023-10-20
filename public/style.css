@@ -1,0 +1,42 @@
+body{
+    background-image: url("background-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: fixed;
+}
+
+h1{
+    font-size: 400%;
+    text-shadow: 1px 1px 0px wheat;
+    color: white;
+}
+
+button{
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(6, 148, 164);
+    color: aliceblue;
+    font-style: italic;
+}
+
+input{
+ border-radius: 10px;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 5px;
+ padding-bottom: 5px; 
+ font-size: larger;
+ font-style: italic;
+ border: 5px solid rgb(203, 246, 11);
+}
+ol{
+
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(249, 249, 250);
+    
+}
